@@ -3,7 +3,6 @@ Diseña un diagrama ER para una tienda en línea con las siguientes entidades/ta
 
 
 Diseño de un diagrama ER
-Diseña un diagrama ER para una tienda en línea con las siguientes entidades/tablas
 
 Cliente:
 ID de cliente (clave primaria)
