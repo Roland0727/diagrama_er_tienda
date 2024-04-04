@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-04T03:14:28.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="pqqPnxReGh0bttsu5l0D" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-04T03:18:56.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="-pqzSnrOMoHAup9XXPxi" version="24.2.2" type="github">
   <diagram name="Página-1" id="LPWX4YHMhJ5ep_9bv4F5">
     <mxGraphModel dx="930" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,6 +43,33 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="380" as="sourcePoint" />
             <mxPoint x="90" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uaSStTMaT5g9Dq04PufN-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="130" as="sourcePoint" />
+            <mxPoint x="350" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uaSStTMaT5g9Dq04PufN-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="110" as="sourcePoint" />
+            <mxPoint x="190" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uaSStTMaT5g9Dq04PufN-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="200" as="sourcePoint" />
+            <mxPoint x="200" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uaSStTMaT5g9Dq04PufN-18" value="&lt;p data-sourcepos=&quot;92:1-92:21&quot; style=&quot;margin: 1rem 0px; white-space: pre-wrap; word-break: break-word; color: rgb(227, 227, 227); font-family: &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(19, 19, 20); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;font-weight: 700;&quot;&gt;En este diagrama:&lt;/strong&gt;&lt;/p&gt;&lt;ul data-sourcepos=&quot;94:1-99:0&quot; style=&quot;margin: 4px 0px; padding-inline-start: 1.125rem; color: rgb(227, 227, 227); font-family: &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(19, 19, 20); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li data-sourcepos=&quot;94:1-94:46&quot; style=&quot;margin-bottom: 0px;&quot;&gt;Un cliente puede realizar múltiples pedidos.&lt;/li&gt;&lt;li data-sourcepos=&quot;95:1-95:45&quot; style=&quot;margin-bottom: 0px;&quot;&gt;Un producto pertenece a una sola categoría.&lt;/li&gt;&lt;li data-sourcepos=&quot;96:1-96:44&quot; style=&quot;margin-bottom: 0px;&quot;&gt;Un producto puede tener un proveedor o no.&lt;/li&gt;&lt;li data-sourcepos=&quot;97:1-97:69&quot; style=&quot;margin-bottom: 0px;&quot;&gt;Un cliente puede dejar múltiples reseñas para diferentes productos.&lt;/li&gt;&lt;li data-sourcepos=&quot;98:1-99:0&quot; style=&quot;margin-bottom: 0px;&quot;&gt;Un producto puede tener reseñas de varios clientes.&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="700" width="520" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="uaSStTMaT5g9Dq04PufN-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="uaSStTMaT5g9Dq04PufN-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="480" as="sourcePoint" />
+            <mxPoint x="120" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
